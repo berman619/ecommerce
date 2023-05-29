@@ -5,7 +5,7 @@
 ## Description 
 This is a back-end application for an e-commerce website that allows users to view, add, update, and delete categories, products, and tags. It utilizes Express.js API and Sequelize to interact with a MySQL database.
 
-Here is a [video](https://drive.google.com/file/d/17phu7l6u2u1XjxzrMhIo3pYwQO5CSpvU/view?usp=sharing) demonstrating the application's functionality.
+Here is a [video](https://drive.google.com/file/d/1MzqCAMXGqZ2RhAMNiy4TgiBB1GauCtKR/view?usp=sharing) demonstrating the application's functionality.
 
 ## Screenshot 
 
